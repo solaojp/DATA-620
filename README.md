@@ -1,2 +1,2 @@
-This repository containss project for twitter sentiment analysis.
+This repository contains project for twitter sentiment analysis.
 Implimentation of Natural language processing
